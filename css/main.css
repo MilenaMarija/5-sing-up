@@ -41,10 +41,15 @@ body {
   font-size: 30px;
   text-align: center ;
   line-height: 57px;
-
   position: absolute;
   top: 0;
   right: 0;
+  color: #777;
+}
+
+.close:hover {
+  color: #333;
+  cursor: pointer;
 }
 
 form {

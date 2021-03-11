@@ -38,6 +38,9 @@ body {
   width: 60px;
   height: 60px;
   background-color: red;
+  font-size: 30px;
+  text-align: center ;
+  line-height: 57px;
 }
 
 form {
